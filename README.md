@@ -6,6 +6,11 @@ A playable Quoridor game with a Pygame UI. The AI uses only two algorithms:
   wall-legality rule (a wall may never seal a pawn in) and for the evaluation.
 * **Minimax** (plain, no Alpha-Beta) - looks ahead `N` plies and picks the best move.
 
+![Quoridor screenshot](screenshot.png)
+
+![Quoridor screenshot](image.png)
+
+
 ## Run
 
     pip install -r requirements.txt
